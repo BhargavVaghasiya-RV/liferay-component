@@ -1,0 +1,3 @@
+Bundle-Name: Scheduler API
+Bundle-SymbolicName: com.liferay.portal.scheduler.api
+Bundle-Version: 1.0.0
