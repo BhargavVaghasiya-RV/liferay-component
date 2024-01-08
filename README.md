@@ -7,15 +7,20 @@ In this repository I am posting different ways to customize the Liferay Componen
 [Components](https://github.com/BhargavVaghasiya-RV/liferay-component/tree/main/component-workspace/modules/custom-field-customization-api)
 
 
+### Components for Gogoshell commands
+[Components](https://github.com/BhargavVaghasiya-RV/liferay-component/tree/main/component-workspace/modules/gogo-shell-api)
+
+
 
 ### Components for Objects
-[Components](https://github.com/BhargavVaghasiya-RV/liferay-component/tree/main/component-workspace/modules/object-customization-api)
+[Components 1](https://github.com/BhargavVaghasiya-RV/liferay-component/tree/main/component-workspace/modules/object-customization-api)
+
+[Components 2](https://github.com/BhargavVaghasiya-RV/liferay-component/tree/main/component-workspace/modules/object-dsl-api)
 
 
 
 ### Components for Schedulers
 [Components](https://github.com/BhargavVaghasiya-RV/liferay-component/tree/main/component-workspace/modules/scheduler-api)
-
 
 
 ### Support
