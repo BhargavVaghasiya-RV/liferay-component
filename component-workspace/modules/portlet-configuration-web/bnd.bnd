@@ -1,0 +1,4 @@
+Bundle-Name: portlet-configuration-web
+Bundle-SymbolicName: com.liferay.portal.portlet.configuration.web
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.portal.portlet.configuration.web.constants
